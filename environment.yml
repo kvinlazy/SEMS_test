@@ -10,5 +10,4 @@ dependencies:
   - scikit-learn
   - pandas_ml
   - pip
-  - brew
   - pyspark
